@@ -1,0 +1,7 @@
+{
+    "Print shortcut": {
+        "prefix": "print",
+        "body": ["print($1)"],
+        "description": "Auto insert print()"
+    }
+}
