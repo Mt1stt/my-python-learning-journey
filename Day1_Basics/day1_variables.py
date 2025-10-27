@@ -1,5 +1,5 @@
 print(4+3)
-x=4
+x=4 #variables
 y=3
 print(x+y)
 height=1.79
